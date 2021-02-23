@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color:#F6F8F9 ;
+}
+
+/*intestazinone header  */
+
+header div h1{
+  display: inline-block;
+  font-family:sans-serif;
+  vertical-align: 25%;
+  line-height: 60px;
+}
+
+header{
+  background-color: white;
+}
+
+header div{
+  margin-left: 5%;
+  margin-top: 5px;
+}
+
+/* corpo del sito */
+main{
+  margin-top: 5%;
+}
+
+section{
+  width: 70%;
+  margin: auto;
+  background-color: white;
+}
+
+/* prima sezione */
+.first{
+ line-height: 50px;
+ border-radius: 5px;
+}
+
+.first div{
+  margin-left:10% ;
+}
