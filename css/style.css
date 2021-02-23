@@ -45,3 +45,20 @@ section{
 .first div{
   margin-left:10% ;
 }
+
+button{
+  border-radius: 5px;
+  line-height:25px ;
+  background-color:#47ADF1 ;
+  border: none;
+  font-family:sans-serif;
+  color: white;
+}
+
+.special-bottom{
+  border: 1px solid;
+  background-color:white;
+  color:#D1D6DA ;
+}
+
+/* seconda macro-sezione */
