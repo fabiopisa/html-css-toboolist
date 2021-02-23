@@ -28,7 +28,7 @@ header div{
 
 /* corpo del sito */
 main{
-  margin-top: 2%;
+  margin-top: 2%;;
 }
 
 section{
@@ -78,11 +78,12 @@ button{
 
 /* bottoni e spunte */
 .bottone{
-  border-radius: 10px;
+  border-radius: 15px;
   background-color:#45ABEA ;
-  padding: 4px;
-  font-size: 15px;
+  padding: 8px;
+  font-size: 10px;
   color: white;
+  vertical-align: 5%;
 }
 
 
@@ -104,3 +105,28 @@ button{
 .second h1{
   line-height:50px ;
 }
+
+.prime{
+  background-color:#9C72E4 ;
+}
+
+.ex{
+  color:#EB5851 ;
+}
+
+.most{
+  background-color:#64C0A9 ;
+}
+
+.west{
+  background-color:#F29E33 ;
+}
+
+.pig{
+  background-color:#D863A1 ;
+}
+
+.sad{
+  background-color:#B0C926 ;
+}
+
