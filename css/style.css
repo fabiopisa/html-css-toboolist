@@ -1,6 +1,7 @@
 *{
   margin: 0;
   box-sizing: border-box;
+  font-family:sans-serif;
 }
 
 body{
@@ -11,9 +12,9 @@ body{
 
 header div h1{
   display: inline-block;
-  font-family:sans-serif;
   vertical-align: 25%;
   line-height: 60px;
+  font-size: 40px;
 }
 
 header{
@@ -27,7 +28,7 @@ header div{
 
 /* corpo del sito */
 main{
-  margin-top: 5%;
+  margin-top: 2%;
 }
 
 section{
@@ -62,3 +63,44 @@ button{
 }
 
 /* seconda macro-sezione */
+
+.second div{
+ margin-left: 10%;
+}
+.second{
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+.contain{
+  padding-top:3%;
+}
+
+/* bottoni e spunte */
+.bottone{
+  border-radius: 10px;
+  background-color:#45ABEA ;
+  padding: 4px;
+  font-size: 15px;
+  color: white;
+}
+
+
+.point{
+  border-radius: 50%;
+  background-color:white ;
+  border: 1px solid;
+  padding: 5px;
+  font-size: 12px;
+  color: #75C9B6;
+}
+
+/* testi */
+.second h3{
+  color: #454952;
+  line-height: 40px;
+}
+
+.second h1{
+  line-height:50px ;
+}
